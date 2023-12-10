@@ -1,12 +1,9 @@
 .MyCard{
+    background: hsl(0, 0%, 100%);
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
-
-.MuiCard-root .MuiPaper-root .MuiPaper-rounded {
-    border-radius: 10px !important;
 }
 
 .Text{
