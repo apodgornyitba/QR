@@ -1,0 +1,28 @@
+.MyCard{
+    background: hsl(0, 0%, 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.MuiCard-root .MuiPaper-root .MuiPaper-rounded {
+    border-radius: 10px !important;
+}
+
+.Text{
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.Text h2 {
+    max-width: 200px;
+    margin: 0 auto;
+    font-size: 100%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.Text p {
+    max-width: 250px;
+    margin: 0 auto;
+    font-size: 15px;
+    padding-bottom: 25px;
+}

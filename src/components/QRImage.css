@@ -1,0 +1,12 @@
+.QRImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+
+}
+
+.QRImage img{
+    max-width: 300px;
+    border-radius: 10px;
+}
